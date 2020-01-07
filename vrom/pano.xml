@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" apprev="17336" appversion="6.0.6">
+  <panorama id="node2">
+    <input overlap="1" width="2000" leveltileurl="https://cdn.jsdelivr.net/gh/leewinmen/cdn@latest/vrom/tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" levelingroll="0" levelbias="0.400" height="2000" levelbiashidpi="1.000">
+      <level width="2000" predecode="0" height="2000" preload="0"/>
+      <level width="1000" predecode="0" height="1000" preload="0"/>
+      <level width="500" predecode="1" height="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="-360" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="0" fov="120" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" longitude="" comment="" tags="" customnodeid="" datetime="" info="" author="" copyright="" source="" latitude="" title=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label textcolor="0x000000" width="180" bordercolor="0x000000" border="1" background="1" borderradius="1" wordwrap="1" textalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" borderalpha="1" height="20" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" softedge="0" blendtime="1" blendcolor="0x000000" zoomspeed="2" zoomin="0" type="crossdissolve" zoomoutpause="1" enabled="1" zoomfov="20"/>
+    <autorotate speed="0.050" returntohorizon="0.000" useanimation="0" nodedelay="0.00" delay="6.00" noderandom="1" startloaded="0" enabled="1"/>
+    <flyintransition speed="1.50" enabled="1"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control rubberband="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" dblclickfullscreen="0" lockedwheel="0" lockedkeyboardzoom="0" simulatemass="1" contextprojections="0" invertwheel="0" sensitivity="8" lockedmouse="0" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" longitude="" comment="" tags="" customnodeid="" datetime="" info="" author="" copyright="" source="" latitude="" title=""/>
+  </masternode>
+</tour>
